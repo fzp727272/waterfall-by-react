@@ -3,7 +3,7 @@
 
 支持窗口缩放绑定了window reisize事件
 
-#使用方法
+# 使用方法
 npm install
 webpack
 npm start
